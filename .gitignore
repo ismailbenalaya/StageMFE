@@ -1,0 +1,32 @@
+# Python compiled files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Log files
+*.log
+
+# Odoo temp/session files
+*.swo
+*.swp
+*.db
+*.zip
+
+# Virtual environment / local environment
+.env
+venv/
+.idea/
+.vscode/
+
+# Odoo addons
+*.egg-info
+*.egg
+
+# Local backups
+*.dump
+*.sql
+
+# Node / JS dependencies (if you have frontend code)
+node_modules/
+dist/
